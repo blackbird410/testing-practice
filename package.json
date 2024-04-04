@@ -1,0 +1,12 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "code.jest.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Neil Taison Rigaud <ntsrigaud14@gmail.com>",
+  "license": "MIT"
+}
